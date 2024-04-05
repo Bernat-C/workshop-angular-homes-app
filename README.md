@@ -9,7 +9,7 @@ My attempt at learning from the Homes app from the [Angular Course on YouTube](h
 
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+  `git clone https://github.com/Bernat-C/workshop-angular-homes-app
 
 - Once the code has been downloaded
 
